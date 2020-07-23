@@ -15,7 +15,7 @@ public class Test1 {
 
         try{
             // 实例化一个认证对象,入参需要传入腾讯云账户secretId,secretKey
-            Credential cred = new Credential("secretId", "secretKey");
+            Credential cred = new Credential("AKIDqeIft0wePq1wawuOFqKdeUEqDPLBE10i", "hAQPIvGK7mBiyxf9MKbbKmwxhALTMyLR");
 
             // 实例化要请求产品(以cvm为例)的client对象
             ClientProfile clientProfile = new ClientProfile();
