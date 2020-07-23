@@ -4,7 +4,9 @@ server:
 spring:
   application:
     name: democlient
-
+  output:
+    ansi:
+      enabled: always
 eureka:
   client:
     service-url:
