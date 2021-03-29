@@ -1,4 +1,4 @@
-package com.example.democlient.testGoF23;
+package com.example.democlient.testGoF23.single;
 
 //饿汉式单例
 public class Hungry {

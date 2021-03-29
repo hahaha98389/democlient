@@ -1,4 +1,4 @@
-package com.example.democlient.testGoF23;
+package com.example.democlient.testGoF23.single;
 //懒汉式单例
 public class LazyMan {
 
