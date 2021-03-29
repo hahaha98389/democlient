@@ -5,10 +5,10 @@ public class Consumer {
 
     public static void main(String[] args) {
 
-
         //使用工厂创建车
         Car car1 = CarFactory.getCar("wuling");
         Car car2 = CarFactory.getCar("tesla");
+
 
         car1.name();
         car2.name();
