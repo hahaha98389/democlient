@@ -15,7 +15,7 @@ public class LazyMan {
                 if (lazyMan == null){//保证单例
                     lazyMan = new LazyMan(); //不是原子性操作
                     /**
-                     * 1,分配内存空间
+                     * 1,分配内存空 间
                      * 2，执行构造方法，初始化对象
                      * 3，把这个对象指向空间
                      *
